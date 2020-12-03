@@ -6,7 +6,8 @@ python train_test.py
 
 # Demo
 1. Run 
-```python demo.py
+```
+python demo.py
 ```
 2. visit http://127.0.0.1:5050/. 
 3. Upload an image and input which type it is. The type could only be one of “fashion”, “character”, “digit”. 
